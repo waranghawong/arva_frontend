@@ -1,0 +1,1 @@
+import{f as e,o as s,c as o,t as a,K as n}from"./CyPEYCpI.js";const r={key:0,class:"font-medium text-sm text-green-600"},u=e({__name:"AuthSessionStatus",props:{status:{}},setup(m){return(t,c)=>t.status?(s(),o("div",r,a(t.status),1)):n("",!0)}});export{u as _};

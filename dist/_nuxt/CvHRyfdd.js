@@ -1,0 +1,1 @@
+import{_ as s,c,b as e,w as t,I as l,O as r,o as _,d,T as u}from"./CyPEYCpI.js";const f={};function i(a,m){const n=u,o=r;return _(),c("div",null,[e(o,null,{default:t(()=>[e(n,null,{default:t(()=>[d("Ancient Rusher VA")]),_:1})]),_:1}),l(a.$slots,"default")])}const x=s(f,[["render",i]]);export{x as default};

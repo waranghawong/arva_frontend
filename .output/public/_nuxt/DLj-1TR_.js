@@ -1,0 +1,1 @@
+import{aa as i,ab as r,ac as a}from"./CyPEYCpI.js";const s=i(()=>{const e=r();if(!e.value)return a("/login");if(!(e.value.email_verified_at||e.value.is_verified))return a("/verify-email")});export{s as default};
